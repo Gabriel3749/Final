@@ -1,0 +1,102 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+header {
+    background-color: rgb(199, 211, 234);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+header img {
+
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+main {
+   
+    text-align: center;
+}
+
+main p {
+   color: rgb(64, 0, 107);
+    text-align: center;
+}
+main image { 
+    text-align: center;
+
+}
+
+nav>a>button {
+    margin-right: 30px;
+    background-color: rgb(196, 208, 228);
+    border: transparent;
+}
+
+figure {
+    width: 10%;
+}
+
+figure>img {
+    width: 50%;
+    height: 50%;
+    margin-left: 30px;
+}
+
+#Busca {
+    background-color: #E0EEEE;
+    border: solid 2px rgb(196, 208, 228);
+    border-radius: 10px;
+    width: 500px;
+    height: 32px;
+}
+
+#txtBusca {
+    float: left;
+    background-color: transparent;
+    padding-left: 5px;
+    font-size: 18px;
+    border: none;
+    height: 32px;
+    width: 393px;
+}
+
+#btnBusca {
+    border: none;
+    float: left;
+    height: 32px;
+    border-radius: 0 7px 7px 0;
+    width: 70px;    
+    background: rgb(168, 184, 213);
+}
+
+#Busca img {
+    float: left;
+}
+figure {
+    width: 10%;
+}
+
+figure>img {
+    width: 50%;
+    height: 50%;
+    margin-left: 30px;
+}
